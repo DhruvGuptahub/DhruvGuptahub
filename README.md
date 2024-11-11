@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gray-tau-55.vercel.app/](https://portfolio-gray-tau-55.vercel.app/)
 
-- 💬 Ask me about **react, javascript, html, css**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **dhruv8815@gmail.com**
 
-- ⚡ Fun fact **I think cool techie but when it's come around tech I get aggressive.**
+- ⚡ Fun fact **I think I'm cool techie but when it's come around tech I get aggressive.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
